@@ -1,9 +1,11 @@
-# Exopod: exokit podcast
+# Exopod: the exokit podcast
 
-## Episode 1: Magic Leap's Secret Pitchdeck
-Guests: Noah Schiffman, Nicholas Loomis
-[Download Link](/exopod-1.mp3)
+### Episode 1: Magic Leap's Secret Pitchdeck
 
-#### Exowhat?
+Guests: _Noah Schiffman_, _Nicholas Loomis_, _Avaer Kazmer_
 
-[Exokit](https://github.com/modulesio/exokit) is a Javascript Mixed reality web browser.
+[[Download Link](https://cdn.rawgit.com/webmixedreality/exopod/d1ea0211/exopod-1.mp3)]
+
+---
+#### Exowhat
+[Exokit](https://github.com/webmixedreality/exokit) is a Javascript Mixed reality web browser.
