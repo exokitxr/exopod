@@ -1,4 +1,4 @@
-# Exopod: the exokit podcast
+# Exopod: the Exokit podcast
 
 ### Episode 1: Magic Leap's Secret Pitchdeck
 
@@ -18,6 +18,18 @@ Guests: _ChrisEddy_, _Avaer Kazmer_, _Noah Schiffman_
 
 [[Download Link](https://cdn.rawgit.com/webmixedreality/exopod/8ae4697/exopod-3.ogg)]
 
+### Episode 4: Magic Leap Stream
+
+Guests: _Nicholas Loomis_, _Avaer Kazmer_, _Noah Schiffman_, _chrisplatorres_
+
+[[View on YouTube](https://www.youtube.com/watch?v=MwNquhKvlrU)]
+
+### Episode 5: Discussing WebXR, WebVR, Magic Leap, Futurism, and the Metaverse
+
+Guests: _Nicholas Loomis_, _Avaer Kazmer_, _Noah Schiffman_, _chrisplatorres_, _Flexo_
+
+[[View on YouTube](https://youtu.be/ImtZSpbzt1k)]
+
 ---
 #### Exowhat
-[Exokit](https://github.com/webmixedreality/exokit) is a Javascript Mixed reality web browser.
+Check out the [Exokit](https://github.com/exokitxr/exokit) repo.
