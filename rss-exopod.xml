@@ -20,7 +20,7 @@
     </description>
     <ttl>60</ttl>
     <image>
-      <url>https://show-profile-images.s3.amazonaws.com/production/13884/exopod_1535672743_itunes.png</url>
+      <url>https://raw.githubusercontent.com/exokitxr/exopod/master/icon.png</url>
       <title>ExoPod</title>
       <link>https://github.com/exokitxr/exopod</link>
       <width>3000</width>
@@ -29,7 +29,7 @@
     <itunes:author>exokit</itunes:author>
     <itunes:subtitle>ExoPod</itunes:subtitle>
     <itunes:summary>the exokit podcast</itunes:summary>
-    <itunes:image href="https://show-profile-images.s3.amazonaws.com/production/13884/exopod_1535672743_itunes.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/exokitxr/exopod/master/icon.png"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:owner>
       <itunes:name>exokit</itunes:name>
